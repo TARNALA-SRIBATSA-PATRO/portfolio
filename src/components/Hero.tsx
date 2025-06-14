@@ -56,7 +56,7 @@ const Hero = () => {
           <div className="relative">
             <div className="w-80 h-80 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-orange-500 shadow-2xl hover:scale-105 transition-transform duration-500">
               <img
-                src="public/sribatsa_image.jpg"
+                src="sribatsa_image.jpg"
                 alt="Tarnala Sribatsa Patro"
                 className="w-full h-full object-cover"
               />
